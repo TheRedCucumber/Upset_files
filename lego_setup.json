@@ -1,0 +1,16 @@
+{
+	"file": "E:\downloads\upset-master\upset-master\Lego.csv",
+	"name": "Lego NinjaGo Sets",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "string", "index": 0, "name": "Article" },
+                { "type": "string", "index": 1, "name": "Name" },
+		{ "type": "string", "index": 2, "name": "Subtheme" },
+		{ "type": "integer", "index": 3, "name": "Year", },
+                { "type": "string", "index": 4, "name": "Pieces" },
+                { "type": "integer", "index": 5, "name": "Minifigures", },
+		{ "type": "float", "index": 20, "name": "Price USD" }
+	],
+}
