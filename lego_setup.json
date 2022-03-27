@@ -12,5 +12,5 @@
                 { "type": "string", "index": 4, "name": "Pieces" },
                 { "type": "integer", "index": 5, "name": "Minifigures" },
 		{ "type": "float", "index": 6, "name": "Price USD" }
-	        ] 
+]
 }
