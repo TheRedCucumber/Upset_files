@@ -11,6 +11,6 @@
 		{ "type": "integer", "index": 3, "name": "Year" },
                 { "type": "string", "index": 4, "name": "Pieces" },
                 { "type": "integer", "index": 5, "name": "Minifigures" },
-		{ "type": "float", "index": 20, "name": "Price USD" }
+		{ "type": "float", "index": 6, "name": "Price USD" },
 	]
 }
