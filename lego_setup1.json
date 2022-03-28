@@ -7,7 +7,7 @@
 	"meta": [
 		{ "type": "id", "index": 0, "name": "Article" },
                 { "type": "string", "index": 1, "name": "Name" },
-		{ "type": "float", "index": 16, "name": "Price USD" }
+		{ "type": "integer", "index": 16, "name": "Price USD" }
 	],
 	"sets": [
 		{ "format": "binary", "start": 2, "end": 15 }
