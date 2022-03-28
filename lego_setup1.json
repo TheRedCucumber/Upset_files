@@ -11,6 +11,6 @@
 		{ "type": "float", "index": 17, "name": "Price USD" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 3, "end": 15 }
+		{ "format": "binary", "start": 2, "end": 15 }
 	]
 }
