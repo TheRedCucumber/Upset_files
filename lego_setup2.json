@@ -1,0 +1,16 @@
+{
+	"file": "https://raw.githubusercontent.com/TheRedCucumber/Upset_files/main/Lego.csv",
+	"name": "Lego NinjaGo Sets",
+	"header": 0,
+	"separator": ",",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "Article" },
+                { "type": "string", "index": 1, "name": "Name" },
+		{ "type": "float", "index": 2, "name": "Price" },
+                { "type": "integer", "index": 3, "name": "Pieces" }
+	],
+	"sets": [
+		{ "format": "binary", "start": 4, "end": 12 }
+	]
+}
