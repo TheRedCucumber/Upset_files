@@ -8,10 +8,10 @@
 		{ "type": "integer", "index": 0, "name": "Article" },
                 { "type": "string", "index": 1, "name": "Name" },
 		{ "type": "integer", "index": 2, "name": "Year" },
-                { "type": "integer", "index": 11, "name": "Minifigures" },
-		{ "type": "float", "index": 12, "name": "Price USD" }
+                { "type": "integer", "index": 16, "name": "Minifigures" },
+		{ "type": "float", "index": 17, "name": "Price USD" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 3, "end": 10 }
+		{ "format": "binary", "start": 3, "end": 15 }
 	]
 }
