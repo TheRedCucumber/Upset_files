@@ -10,6 +10,6 @@
 		{ "type": "float", "index": 2, "name": "Price" }
 	],
 	"sets": [
-		{ "format": "binary", "start": 3, "end": 16 }
+		{ "format": "binary", "start": 3, "end": 15 }
 	]
 }
