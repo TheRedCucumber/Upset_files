@@ -1,4 +1,4 @@
-﻿Article,Name,Цена USD,Seabound,The island,Core,Legacy,до 100 дет,от 100 до 500 дет,от 500 до 1000 дет,от 1000 дет,до 2 фиг,до 4 фиг,до 6 фиг,до 8 фиг,более 8 фиг
+﻿Article,Name,Цена USD,Seabound,The island,Core,Legacy,<100,100-500,500-1000,1000+,<=2,<=4,<=6,<=8,8+
 71750,Lloyd's Hydro Mech,19.99,1,0,0,0,0,1,0,0,1,0,0,0,0
 71752,Ninja Sub Speeder,39.99,1,0,0,0,0,1,0,0,0,1,0,0,0
 71754,Water Dragon,69.99,1,0,0,0,0,0,1,0,0,0,1,0,0
